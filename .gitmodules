@@ -1,0 +1,3 @@
+[submodule "demo-files"]
+	path = demo-files
+	url = https://github.com/svenf-demo/git-school-demo
